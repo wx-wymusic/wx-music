@@ -7,7 +7,7 @@
     "pages/musicsearch/musicsearch"
   ],
   "window": {
-    "navigationBarTitleText": "Demo",
+    "navigationBarTitleText": "云村",
     "navigationBarTextStyle": "white",
     "backgroundColor": "#ff00ff"
   },

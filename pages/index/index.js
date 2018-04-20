@@ -15,7 +15,6 @@ Page({
     });
   },
   changeGlobalNum() {
-    console.log('changeGlobalNum')
     app.globalData.num++;
   },
   async testClick() {

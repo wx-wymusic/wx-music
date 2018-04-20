@@ -1,5 +1,6 @@
 //index.js
 //获取应用实例
+//注释一下
 const app = getApp();
 // const { request } = require("../../utils/fetch.js");
 
